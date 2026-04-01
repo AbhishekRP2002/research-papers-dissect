@@ -1,0 +1,15 @@
+[project]
+name = "research-papers-dissect"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Abhishek Ranjan", email = "aviranjan444@gmail.com"},
+]
+dependencies = []
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
